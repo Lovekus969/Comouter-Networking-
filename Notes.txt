@@ -22,4 +22,5 @@ Q..What is Network Optimization?
 Network Optimization means improving the speed, reliability, and efficiency of data transfer in a network.
 
 Summary “Load balancing is the process of distributing incoming network traffic across multiple servers to optimize resource use, prevent overload, and ensure availability. It's critical in high-traffic systems like web apps, cloud services, and enterprise networks.”
-
+Q... What is a VPN?
+A VPN (Virtual Private Network) is a secure tunnel between your device and the internet. It hides your IP address, encrypts your internet traffic, and can make it look like you're in another country.
