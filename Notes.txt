@@ -10,3 +10,7 @@ Q..Where is a Firewall Used?
 Between your internal network (LAN) and the public internet
 Between different segments of a network (e.g., office to data center)
 In cloud platforms like AWS, Azure (via Security Groups or NACLs)
+
+Q.. What is an IDS?
+IDS = Intrusion Detection System
+It's a security tool that monitors network traffic or system behavior to detect suspicious or malicious activity — like a network security camera. It doesn’t block anything itself — it just detects, alerts, and logs.
