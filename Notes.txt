@@ -14,3 +14,6 @@ In cloud platforms like AWS, Azure (via Security Groups or NACLs)
 Q.. What is an IDS?
 IDS = Intrusion Detection System
 It's a security tool that monitors network traffic or system behavior to detect suspicious or malicious activity — like a network security camera. It doesn’t block anything itself — it just detects, alerts, and logs.
+
+Q.. What is IPS?
+(IPS = Intrusion Prevention System.) An IPS not only detects threats like an IDS, but also acts immediately to stop them — it’s like having a security guard who tackles the intruder before harm is done.
