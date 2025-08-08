@@ -1,3 +1,8 @@
 : What is the purpose of the OSI model?
 A: It helps understand and standardize how different networking functions communicate in layers, allowing interoperability between devices and protocols.
 Layer 1 deals with the physical aspects of the network, such as cabling and signal transmission. Layer 2 focuses on framing data and communication within a local network segment, using MAC addresses. Layer 3 handles logical addressing (IP addresses) and routing data between different networks
+
+ firewall security in computer networks 
+A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predefined security rules.
+Its main job: allow good traffic, block bad traffic — like a security guard at your network’s entrance.
+
