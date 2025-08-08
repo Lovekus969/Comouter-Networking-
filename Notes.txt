@@ -38,5 +38,5 @@ PPTP, developed by Microsoft, is an older VPN protocol that encapsulates PPP fra
 
 Network Access Services and Other Network Services/Applications
 Network Access Services are the technologies and protocols that allow users or devices to connect securely and efficiently to a network. They control who or what gets access, how connections are established, and ensure that the right level of authentication and authorization is applied.
-https://www.researchgate.net/figure/Connection-between-service-provider-and-user-in-the-access-network-Access-Network_fig1_228349586
+
 
