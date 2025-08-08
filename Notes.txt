@@ -36,7 +36,7 @@ GRE is a protocol developed by Cisco that allows the encapsulation of a wide var
 
 PPTP, developed by Microsoft, is an older VPN protocol that encapsulates PPP frames into IP datagrams for transmission. Unlike GRE, PPTP provides built-in encryption, but it's considered weak and outdated in terms of security. Modern systems often deprecate or avoid using PPTP due to vulnerabilities.
 
-Network Access Services and Other Network Services/Applications
+Network Access Services and Other Network Services/Applications let see what they are ? 
 Network Access Services are the technologies and protocols that allow users or devices to connect securely and efficiently to a network. They control who or what gets access, how connections are established, and ensure that the right level of authentication and authorization is applied.
 
 
