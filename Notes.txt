@@ -17,3 +17,9 @@ It's a security tool that monitors network traffic or system behavior to detect 
 
 Q.. What is IPS?
 (IPS = Intrusion Prevention System.) An IPS not only detects threats like an IDS, but also acts immediately to stop them — it’s like having a security guard who tackles the intruder before harm is done.
+
+Q..What is Network Optimization?
+Network Optimization means improving the speed, reliability, and efficiency of data transfer in a network.
+
+Summary “Load balancing is the process of distributing incoming network traffic across multiple servers to optimize resource use, prevent overload, and ensure availability. It's critical in high-traffic systems like web apps, cloud services, and enterprise networks.”
+
