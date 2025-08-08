@@ -1,0 +1,2 @@
+: What is the purpose of the OSI model?
+A: It helps understand and standardize how different networking functions communicate in layers, allowing interoperability between devices and protocols.
